@@ -1,7 +1,7 @@
-# DARPCD
+# DARPCD INSTANCES DESCRIPTION
 
 -----------------
-#DataX_a.txt files
+# DataX_a.txt files
 
 HEADER
 
@@ -45,7 +45,7 @@ BODY
 
 -----------------
 
-#DataX_a_tw.txt files
+# DataX_a_tw.txt files
 
 0 column: earliest time to serve vertex n+i, where i is the row number start counting from 1
 
