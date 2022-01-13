@@ -1,4 +1,4 @@
-# DARPCD INSTANCES DESCRIPTION
+# DARPi INSTANCES DESCRIPTION
 
 -----------------
 # DataX_a.txt files
